@@ -59,3 +59,4 @@ for j in range(8):
             cell = f'{cell}  {i[1]}'
         print(cell, end = '  ')
     print()
+    print("Пешка")
