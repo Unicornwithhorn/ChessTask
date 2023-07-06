@@ -62,3 +62,4 @@ for j in range(8):
     print("Пешка")
     print("Конь")
     print("Слон")
+    print("Ладья")
