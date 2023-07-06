@@ -66,4 +66,3 @@ for j in range(8):
     print("Слон")
     print("Ладья")
     print("Ферзь")
-    print("Король")
