@@ -62,7 +62,3 @@ for j in range(8):
         print(cell, end = '  ')
     print()
     print("Пешка")
-    print("Конь")
-    print("Слон")
-    print("Ладья")
-    print("Ферзь")
